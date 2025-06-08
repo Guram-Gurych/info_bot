@@ -37,7 +37,7 @@ InfoSphere — Telegram-бот, предоставляющий краткую и
 - FSM
 - Middleware
 - Кастомные фильтры (`IsAdmin`, `IsPrivate`)
-- Хранилище в формате JSON
+- SQL для хранения данных
 
 ---
 
